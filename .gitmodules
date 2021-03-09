@@ -1,0 +1,3 @@
+[submodule "musicEEGart2"]
+	path = musicEEGart2
+	url = https://github.com/luluricketts/musicEEGart.git
